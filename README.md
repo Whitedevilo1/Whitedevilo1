@@ -30,9 +30,13 @@ I'm a passionate tech enthusiast and Computer Science student with a strong inte
 
 ### 🏆 Achievements
 
+- Completed Full-Stack Web-development Bootcamp.[https://shorturl.at/jYmNB]
+- DSA Mastery with Java. [https://surl.li/dyqbok]
+- SDP on Cyber-Security. [https://acesse.one/tzsIg]
 - Completed ML project with full deployment on Render
 - Participated in open-source contributions (Keploy Fellowship)
 - Participated in various AI/ML workshops and also have Hackathons experience.
+
 
 ---
 
