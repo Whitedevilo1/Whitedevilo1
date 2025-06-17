@@ -1,16 +1,45 @@
-## Hi there 👋
+### 👋 Hi there, I'm Kanishk!
 
-<!--
-**Whitedevilo1/Whitedevilo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate tech enthusiast and Computer Science student with a strong interest in web-development, API integration, machine learning, and open-source development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- 💻 Languages: Python, C++, JavaScript, HTML, CSS, Node.js, React.js, MongoDB, Express.js
+- ⚙️ Tools & Frameworks: Flask, Scikit-learn, Git, React (basic), TailwindCSS
+- 🧠 Interests: web-designs, API working, website-testing, making machine Learning models 
+
+---
+
+### 🔥 Notable Projects
+
+- 🧠 **Chess Bot Detection ML Model**  
+  A machine learning project to detect if a player is a bot based on game data.
+  https://bot-detector-0woo.onrender.com
+
+- 🎬 **Netflix Clone**  
+  A frontend clone of Netflix using HTML and CSS.
+  Link to site: "https://whitedevilo1.github.io/clone-site/"
+
+- 🌐 **Personal Portfolio Website**  
+  Designed and built a portfolio to showcase my projects.
+  Link to site: "https://whitedevilo1.github.io/project-portfolio/"
+
+---
+
+### 🏆 Achievements
+
+- Completed ML project with full deployment on Render
+- Participated in open-source contributions (Keploy Fellowship)
+- Participated in various AI/ML workshops and also have Hackathons experience.
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/kanishk-jakhmola
+- GitHub: https://github.com/Whitedevilo1
+- E-mail: kanishkjakhmola@gmail.com
+
+
