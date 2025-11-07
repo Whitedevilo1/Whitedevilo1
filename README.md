@@ -16,7 +16,7 @@ I'm a passionate tech enthusiast and Computer Science student with a strong inte
 
 - 🧠 **Chess Bot Detection ML Model**  
   A machine learning project to detect if a player is a bot based on game data.
-  https://bot-detector-0woo.onrender.com
+  Link to site: "https://bot-detector-0woo.onrender.com/"
 
 - 🎬 **Netflix Clone**  
   A frontend clone of Netflix using HTML and CSS.
@@ -24,7 +24,7 @@ I'm a passionate tech enthusiast and Computer Science student with a strong inte
 
 - 🌐 **Personal Portfolio Website**  
   Designed and built a portfolio to showcase my projects.
-  Link to site: "https://whitedevilo1.github.io/project-portfolio/"
+  Link to site: "https://project-portfolio-0b5j.onrender.com/"
 
 ---
 
